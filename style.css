@@ -834,6 +834,37 @@ h4 {
     align-items: center;
 }
 
+.partenaire{
+    display: flex;
+    flex-direction: column;
+}
+.title-partenaire{
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.title-partenaires{
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 200px;
+}
+#list-partenaires{
+    text-align: center;
+    list-style-type: none;
+    width: 100%;
+    height: 500px;
+}
+.partenaires-link{
+    text-align: center;
+    color:yellow;
+    font-weight: bold;
+    text-decoration:none;
+}
+
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
