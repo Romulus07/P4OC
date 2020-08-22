@@ -1,0 +1,4 @@
+User-Agent: *
+
+Disallow:
+Sitemap: http://https://romulus07.github.io/P4OC/index.html/sitemap_index.xml
