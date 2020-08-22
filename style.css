@@ -112,11 +112,11 @@ a:hover {
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
 .d-bloc .icon-semi-rounded-b {
-    border-color: rgba(255, 255, 255, .9);
+    border-color: black;
 }
 
 .d-bloc .divider-h span {
-    border-color: rgba(255, 255, 255, .2);
+    border-color: black;
 }
 
 .d-bloc .a-btn,
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color:black;
 }
 
 .d-bloc .a-btn:hover,
@@ -651,7 +651,6 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
 }
 
 .container {
@@ -694,7 +693,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color:black;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -704,6 +703,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: black;
 }
 
 h2 {
@@ -735,10 +735,11 @@ h4 {
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
+    color: black;
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: black;
 }
 
 .portfolio-thumb {
@@ -755,7 +756,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color:orange;
     padding: 40px 40px 40px 40px;
 }
 
@@ -777,17 +778,16 @@ h4 {
 }
 
 .tc-white {
-    color:red!important;
+    color:#FFFF00!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #c27956!;
+    color: #FFFFFF;
 }
 
 .ltc-white {
@@ -799,7 +799,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #F3976C;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -859,10 +859,11 @@ h4 {
 }
 .partenaires-link{
     text-align: center;
-    color:yellow;
     font-weight: bold;
     text-decoration:none;
 }
+
+
 
 
 @media (max-width: 1024px) {
