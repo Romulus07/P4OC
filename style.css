@@ -862,6 +862,12 @@ h4 {
     text-align: center;
     font-weight: bold;
     text-decoration:none;
+    color: black;
+}
+a{
+    text-align: center;
+    color: black;
+    font-weight: bold;
 }
 
 #list-center{
