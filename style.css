@@ -876,6 +876,11 @@ a{
     padding-left: 0;
 }
 
+.contrast{
+    color: red;
+    text-shadow: 5px 5px 6px black;
+}
+
 
 
 @media (max-width: 1024px) {
