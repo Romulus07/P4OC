@@ -812,10 +812,6 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
-}
-
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
 }
@@ -877,8 +873,9 @@ a{
 }
 
 .contrast{
-    color: red;
-    text-shadow: 5px 5px 6px black;
+    color:black;
+    text-shadow: 1px 1px 2px black;
+    font-weight: bolder;
 }
 
 
